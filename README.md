@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ---
 __Información general :)__
@@ -45,3 +46,7 @@ __Información general :)__
 
 
 
+=======
+# Fintech
+Proyecto Fintech Bictia FullStack
+>>>>>>> Origin/master
