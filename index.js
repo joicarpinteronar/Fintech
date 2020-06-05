@@ -11,7 +11,7 @@ const bind = process.env.BIND ? process.env.BIND : config.app.bind ? config.app.
 //URL Encode Support for POST, PUT Methods
 const bodyParser = require('body-parser');
 
-let usersController = require('./app/controllers/users')();
+//let usersController = require('./app/controllers/users')();
 let usersController = require('./app/controllers/users_firebase')()
 let classesController = require('./app/controllers/classes')();
 let loginController = require('./app/controllers/login')();
